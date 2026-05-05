@@ -1,0 +1,41 @@
+personal-finance-ka-funda/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+├── app/
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/
+│   │       │   └── com/
+│   │       │       └── vinodjakhar/
+│   │       │           └── financekafunda/
+│   │       │               ├── MainActivity.java
+│   │       │               ├── FinanceCalculator.java
+│   │       │               └── ResultActivity.java
+│   │       ├── res/
+│   │       │   ├── layout/
+│   │       │   │   ├── activity_main.xml
+│   │       │   │   └── activity_result.xml
+│   │       │   ├── values/
+│   │       │   │   ├── strings.xml
+│   │       │   │   ├── colors.xml
+│   │       │   │   └── themes.xml
+│   │       │   ├── mipmap-hdpi/
+│   │       │   ├── mipmap-mdpi/
+│   │       │   ├── mipmap-xhdpi/
+│   │       │   ├── mipmap-xxhdpi/
+│   │       │   └── mipmap-xxxhdpi/
+│   │       └── AndroidManifest.xml
+│   ├── build.gradle
+│   └── proguard-rules.pro
+├── gradle/
+│   └── wrapper/
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── build.gradle
+├── settings.gradle
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── .gitignore
+└── README.md
